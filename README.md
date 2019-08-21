@@ -1,3 +1,3 @@
 # Web Development Mini project 
 # Seating Allotment
-Abstract:
+Abstract:Exam Hall Seating Arrangement System is developed for the college to simplify examination hall allotment and seating arrangement. It facilitates to access the examination information of a particular student in a particular class. The purpose of developing exam hall seating arrangement system is to computerized the traditional way of conducting exams. Another purpose for developing this software is to generate the seating arrangement report automatically during exams at the end of the session or in between the session.The Students details have information about all the students who attend the examination  
