@@ -27,7 +27,7 @@
       <script type="text/javascript" src="clockfiles/clockpicker.js"></script>
 </head>
 <body>
-<a href="index.php" class="btn  back-button btn-sm"><span class="glyphicon glyphicon-chevron-left"></span>back</a>
+
   <?php
   session_start();
   if (isset($_SESSION['adminname']) && isset($_SESSION['password'])) {
